@@ -16,8 +16,7 @@ Jag är en prestigelös lagspelare och brukar kalla mig själv för en offensiv 
 ### Ecopilot AB
 Utvecklingschef
 
-Ecopilot energioptimerar fastigheters användning av värme, kyla och ventilation. Idag finns nästan 1000 fastigheter uppkopplade som optimeras varje minut av Ecopilots algoritmer. Principen bakom styrningen av fastigheterna är dels grundande på forskning hos KTH samt många års erfaranhet av hur fastigheter fungerar i praktiken. Jag leder arbetet i att ta fram den nya generationens Ecopiloter som syftar till att skala tjänsten bättre samt att nyttja all den data vi har för ta hjälp av artificiell intelligens för att göra ytterligare besparingar på energianvändning och miljöpåverkan.
-Förutom att vara delaktig i utvecklingsarbetet så har jag även personalansvar, kontorsansvar samt jobbar med rekrytering och inköp av konsulttjänster.
+Ecopilot energioptimerar fastigheters användning av värme, kyla och ventilation. Idag finns nästan 1000 fastigheter uppkopplade som optimeras varje minut av Ecopilots algoritmer. Principen bakom styrningen av fastigheterna är dels grundande på forskning hos KTH samt många års erfaranhet av hur fastigheter fungerar i praktiken.
 
 ### 2015-04 - 2017-04
 ### Layer 10, Göteborg
@@ -100,6 +99,10 @@ Transport till Mule ESB som möjliggör att läsa och skriva till MSMQ-köer. Op
 
 ## Projekt & uppdrag
 
+### Ecopilot, Utvecklingschef, 2017-04 - pågående
+Jag leder arbetet i att ta fram den nya generationens Ecopiloter som syftar till att skala tjänsten bättre samt att nyttja all den data vi har för ta hjälp av artificiell intelligens för att göra ytterligare besparingar på energianvändning och miljöpåverkan. Jag bidrar i utvecklingsteamet som arkitekt och med coachning.
+Jag har även personalansvar, kontorsansvar samt jobbar med rekrytering och inköp av konsulttjänster. Teknik som användes: Go, Kubernetes, Continuous Integration, Continuous Deployment, Microservices, Discovery Services, Build Pipelines
+
 ### H&M, Systemutvecklare & DevOps katalysator, Borås, 2016-03 - 2017-04
 Utvecklar betallösningar (kort, kredit, presentkort m.m.) för alla marknader där H&M finns. Även närliggande tjänster som kreditupplysning och fraud detection. Förutom att hjälpa till med vidareutveckling av dessa tjänster så är även mitt uppdrag att initiera arbetssätt och metoder för DevOps.
 Teknik som användes: Java, Docker, BDD, Continuous Integration, Continuous Deployment, Microservices, Discovery Services, Build Pipelines
@@ -124,8 +127,7 @@ Team: 5 personer
 Organisation: Sverige, USA
 Teknik som användes: Java EE, Apache Maven
 
-### Advenica AB, SCS (säkerhetsklass Top Secret), Systemutvecklare, Göteborg/Lund,
-2015-05 - 2015-08
+### Advenica AB, SCS (säkerhetsklass Top Secret), Systemutvecklare, Göteborg/Lund, 2015-05 - 2015-08
 På grund av projektets natur kan jag inte berätta så mycket detaljer.
 
 Som en del i en större lösning för säkra samtal över internet tog jag fram en lösning för att distribuera nycklar som krävs för att etablera samtalen.
@@ -142,11 +144,11 @@ Teknik som användes: PHP5, Python, HTML/HTML5, CSS/CSS3, JavaScript, MySQL, RES
 Se även beskrivningen under anställningar. Teknisk planering av en feature-release. Huvudfunktionen som infördes var CGM, d.v.s. kontinuerlig mätning av glukosnivåer som stöds av vissa nyare mätare.
 Teknik som användes: PHP5, Python, HTML/HTML5, CSS/CSS3, JavaScript, MySQL, Amazon Web Services, Linux
 
-### Tankmin, Arkitekt & Systemutvecklare, Göteborg, 2014 -
+### Tankmin, Arkitekt & Systemutvecklare, Göteborg, 2014 - 2018-12
 Administrativt system för hantering av rengöring av containers/tankar. Jag har varit med att bygga applikationen från grunden med databasmodellering, arkitektur och gränssnitt.
 Teknik som användes: Java SE, Play Framework 2, REST, Twitter Bootstrap, jQuery, jQueryUI, KnockoutJS, MySQL, LESS, Amazon Web Services, NoSQL, Docker, MVVM, Linux, Selenium, JUnit
 
-### Treks, Arkitekt & Systemutvecklare, Göteborg, 2014-01 -
+### Treks, Arkitekt & Systemutvecklare, Göteborg, 2014-01 - pågående
 Tidredovisningsprogram speciellt framtaget för projekt-intensiva företag. Applikationen har byggts från grunden med ett API som används av både webb och mobil applikation. Jag har arbetat med arkitektur,
 databasmodellering och användargränssnitt.
 Teknik som användes: Java SE, Play Framework 2, REST, Twitter Bootstrap, jQuery, MySQL, LESS, Android, Docker, Google Charts API, Amazon Web Services, NoSQL, MVC, Linux, Akka, Non blocking IO, Drone
@@ -155,8 +157,7 @@ Teknik som användes: Java SE, Play Framework 2, REST, Twitter Bootstrap, jQuery
 Kravinsamling, analysering och specificering av integrationer mellan Schenkers stödsystem för landburna transporter. Jag arbetade tätt med BA-grupperingen som samlade in verksamhetskrav. Dessa arbetade jag sedan med för att specificera krav på integrationer. Mitt arbete lämnades sedan över till en grupp utvecklare som sedan implementerade integrationerna på respektive integrationsplattform.
 Teknik som användes: XML, XSD
 
-### Multicom Security, Prisma, ScrumMaster & Arkitekt & Systemutvecklare, Göteborg,
-2010-06 - 2012-05
+### Multicom Security, Prisma, ScrumMaster & Arkitekt & Systemutvecklare, Göteborg, 2010-06 - 2012-05
 Förstudie och analys för framtagande av nytt administrativt system för kund och orderhantering. Arbetade nära verksamheten för att förbättra och förenkla processen vid ny orderläggning. Tog även fram en struktur för att konfigurera Multicoms olika larmtjänster. Under utvecklingsprojektet ledde jag en grupp på 6 utvecklare och förutom att jag själv utvecklade hade jag även ansvaret för arkitektur och integrationslösning.
 Teknik som användes: Java EE, GWT, PostgreSQL, ActiveMQ, SOAP, XML, XSD, XSLT, SCRUM, MVC, Linux, TeamCity, Artifactory, Mule ESB
 
