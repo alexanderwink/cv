@@ -12,7 +12,7 @@ Med mitt holistiska synsätt och min övertygelse om att ett team är mer än de
 Jag är en prestigelös lagspelare och brukar kalla mig själv för en offensiv person, i bemärkelsen att jag är orädd för förändringar och omvärderingar.
 
 ## Anställningar
-### 2017-04 - pågående
+### 2017-04 - 2019-11
 ### Ecopilot AB
 Utvecklingschef
 
