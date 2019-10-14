@@ -99,7 +99,7 @@ Transport till Mule ESB som möjliggör att läsa och skriva till MSMQ-köer. Op
 
 ## Projekt & uppdrag
 
-### Ecopilot, Utvecklingschef, 2017-04 - pågående
+### Ecopilot, Utvecklingschef, 2017-04 - 2019-11
 Jag leder arbetet i att ta fram den nya generationens Ecopiloter som syftar till att skala tjänsten bättre samt att nyttja all den data vi har för ta hjälp av artificiell intelligens för att göra ytterligare besparingar på energianvändning och miljöpåverkan. Jag bidrar i utvecklingsteamet som arkitekt och med coachning.
 Jag har även personalansvar, kontorsansvar samt jobbar med rekrytering och inköp av konsulttjänster. Teknik som användes: Go, Kubernetes, Continuous Integration, Continuous Deployment, Microservices, Discovery Services, Build Pipelines
 
