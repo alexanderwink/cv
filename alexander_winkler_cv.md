@@ -12,6 +12,11 @@ Med mitt holistiska synsätt och min övertygelse om att ett team är mer än de
 Jag är en prestigelös lagspelare och brukar kalla mig själv för en offensiv person, i bemärkelsen att jag är orädd för förändringar och omvärderingar.
 
 ## Anställningar
+
+### 2019-11 - idag
+### Treks AB
+Grundare
+
 ### 2017-04 - 2019-11
 ### Ecopilot AB
 Utvecklingschef
@@ -99,6 +104,14 @@ Transport till Mule ESB som möjliggör att läsa och skriva till MSMQ-köer. Op
 
 ## Projekt & uppdrag
 
+### NetOnNet, Kubernetes-expert, 2022-02 - idag
+Tar fram en ny ehandels-plattform för NetOnNet. On Premise Kubernetes. Hjälper arkitekter att ta beslut kring containerisering, uppdelning i Microservices, Microdatabases, Serverless functions, Declarative Management. Utbildar utvecklarna i DevOps-metodik.
+Tekniker som användes: Docker, Kubernetes, GitOps, Kustomize, ArgoCD, IaC.
+
+### Pulsen Omsorg, Team Lead, 2019-11 - 2022-02
+Leder ett krossfunktionellt team, dels att upprätthålla agila metoder men även arkitekturella principer. Coachar och är bollplank vid lösningsdiskussioner. Förstärker och möjliggör för teamet att vara självbestämmande.
+Tekniker som användes: Docker, Kubernetes, C#, React, GitOps
+
 ### Ecopilot, Utvecklingschef, 2017-04 - 2019-11
 Jag leder arbetet i att ta fram den nya generationens Ecopiloter som syftar till att skala tjänsten bättre samt att nyttja all den data vi har för ta hjälp av artificiell intelligens för att göra ytterligare besparingar på energianvändning och miljöpåverkan. Jag bidrar i utvecklingsteamet som arkitekt och med coachning.
 Jag har även personalansvar, kontorsansvar samt jobbar med rekrytering och inköp av konsulttjänster. Teknik som användes: Go, Kubernetes, Continuous Integration, Continuous Deployment, Microservices, Discovery Services, Build Pipelines
@@ -108,7 +121,6 @@ Utvecklar betallösningar (kort, kredit, presentkort m.m.) för alla marknader d
 Teknik som användes: Java, Docker, BDD, Continuous Integration, Continuous Deployment, Microservices, Discovery Services, Build Pipelines
 
 ### SpeedLedger, Systemutvecklare, Göteborg, 2015-12 - 2016-03
-
 Tar fram den nya versionen av fakturatolkningsprogramvaran för SpeedFeed. Vidareutveckling sker i coreprodukten samtidigt som kundprojekt implementeras parallellt. Utmaningen ligger i att särskilja på generiska delar och kundspecifika delar i ett projekt med mycket högt tempo.
 Teknik som användes: Java 8, Apache Maven, Docker, Oracle, Bamboo, GIT, JUnit, Apache Tomcat, Amazon
 Web Services, JPA, MVC, Linux, Artifactory
