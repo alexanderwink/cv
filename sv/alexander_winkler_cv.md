@@ -7,7 +7,7 @@
 
 alexanderwink@gmail.com
 
-Jag har verkat i utvecklingsbranschen i snart 20 år. Under den tiden har jag haft olika roller och varit med i olika utvecklingsfaser. De områden jag brinner lite extra för är agil coachning, team lead, arkitektur och utveckling.
+Jag har verkat i utvecklingsbranschen i över 20 år. Under den tiden har jag haft olika roller och varit med i olika utvecklingsfaser. De områden jag brinner lite extra för är agil coachning, team lead, arkitektur och utveckling.
 Med mitt holistiska synsätt och min övertygelse om att ett team är mer än dess individer så brukar jag oftast ses som den sammanhållande kraften i gruppen. Jag har ett rikt spektrum av kunskaper och erfarenheter som gör att jag är bra på att hitta alternativa angreppssätt på problemställningar. Det gör också att jag kan jämföra tekniker och metoder mot varandra för att kunna göra väl grundade val. Men jag är också väldigt intresserad av att förstå ett sammanhang, både den verksamhet jag själv befinner mig i men också slutanvändarens. Lösningar som jag är med och tar fram ska vara okomplexa, förvaltningsbara och testbara och ska uppfylla eller överträffa önskemål och krav.
 
 Jag är en prestigelös lagspelare och brukar kalla mig själv för en offensiv person, i bemärkelsen att jag är orädd för förändringar och omvärderingar.
