@@ -7,10 +7,9 @@ April 3, 1977
 
 alexanderwink@gmail.com
 
-I have worked in the software development industry for over 20 years. During that time, I have had different roles and been involved in different development phases. The areas I am a little extra passionate about are agile coaching, team lead, architecture and development.
-With my holistic approach and my belief that a team is more than its individuals, I am usually seen as the unifying force in the group. I have a rich spectrum of knowledge and experience which means that I am good at finding alternative approaches to problem situations. It also allows me to compare techniques and methods against each other in order to make well-founded choices. But I am also very interested in understanding a context, both the business I myself am in but also that of the end user. Solutions that I am involved in developing must be uncomplex, manageable and testable and must meet or exceed wishes and requirements.
+I possess over 20 years of experience in the software development industry, during which I have assumed various roles and engaged in diverse development phases. I hold a particular affinity for agile, team leadership & coaching, architecture, and development. By adopting a holistic approach and recognizing the collective strength of a team, I consistently serve as a unifying force within the group. My extensive knowledge and experience enable me to identify alternative approaches to problem situations and make well-informed choices by comparing technology and methods. Additionally, I am deeply committed to understanding the context in which I operate, encompassing both the business I am involved in and the needs of end users. Consequently, the solutions I contribute to must prioritize simplicity, manageability, testability, and surpass expectations while meeting requirements.
 
-I am a team player without prestige and usually call myself an open-minded person, in the sense that I am not afraid of changes and reassessments.
+I thrive as a team player, free from personal prestige, and consider myself an open-minded individual who embraces change and reevaluation without hesitation.
 
 ## Employment
 
