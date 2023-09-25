@@ -21,7 +21,7 @@ Jag är en prestigelös lagspelare och brukar kalla mig själv för en offensiv 
 
 Solutions Architect
 
-Som teammedlem i Architecture & Standards på Polestar jobbar vi horizontallt genom hela organisationen. Vi coachar arkitekter i våra domän team, vi skriver guidelines och standarder som hjälper tech-organisationen att skapa säkra, pålitliga och förvaltningsbara applikationer som använder ny teknik. På Polestar är allt vi gör serverless och event-driven och team behöver guidelines och kunskap för att kunna göra sitt jobb. Vi jobbar även ihop med domän arkitekerna för att ta fram lösningar.
+Som teammedlem i Architecture & Standards på Polestar jobbar vi horizontallt genom hela organisationen. Vi coachar arkitekter i våra domän team, vi skriver guidelines och standarder som hjälper tech-organisationen att skapa säkra, pålitliga och förvaltningsbara applikationer som använder ny teknik. På Polestar är allt vi gör serverless och event-driven och team behöver guidelines och kunskap för att kunna göra sitt jobb. Vi jobbar även ihop med domänarkiteker för att ta fram lösningar.
 
 ### 2019-11 - idag
 
