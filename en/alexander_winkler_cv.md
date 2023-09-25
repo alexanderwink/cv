@@ -20,7 +20,7 @@ I thrive as a team player, free from personal prestige, and consider myself an o
 
 Solutions Architect
 
-As part of the Architecture & Standards team at Polestar we work horizontal through the entire company. We coach other Architects, we write guidelines, practises and standards that helps the tech department to create secure, reliable and maintainable software using state of the art technology. At Polestar everything we do is serverless and event-driven and teams need guidance and acquiring knowledge to be able to do their work, solutioning with the teams and domain architects are a big part of my work.
+As part of the Architecture & Standards team at Polestar we work horizontally through the entire organisation. I coach other Architects, I write guidelines, practises and standards that helps the tech department to create secure, reliable and maintainable software using state of the art technology. At Polestar everything we do is serverless and event-driven and the teams need guidance and knowledge to be able to do their work. I also do solutioning with the teams and domain architects as well as work with business to define requirements.
 
 ### 2019-11 - today
 
