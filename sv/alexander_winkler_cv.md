@@ -33,7 +33,7 @@ Grundare
 
 ### Ecopilot AB
 
-Utvecklingschef
+Director of Research & Development
 
 Ecopilot energioptimerar fastigheters användning av värme, kyla och ventilation. Idag finns nästan 1000 fastigheter uppkopplade som optimeras varje minut av Ecopilots algoritmer. Principen bakom styrningen av fastigheterna är dels grundande på forskning hos KTH samt många års erfaranhet av hur fastigheter fungerar i praktiken.
 

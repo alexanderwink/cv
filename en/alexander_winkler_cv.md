@@ -8,7 +8,7 @@ April 3, 1977
 
 alexanderwink@gmail.com
 
-I possess over 20 years of experience in the software development industry, during which I have assumed various roles and engaged in diverse development phases. I hold a particular affinity for agile, team leadership & coaching, architecture, and development. By adopting a holistic approach and recognizing the collective strength of a team, I consistently serve as a unifying force within the group. My extensive knowledge and experience enable me to identify alternative approaches to problem situations and make well-informed choices by comparing technology and methods. Additionally, I am deeply committed to understanding the context in which I operate, encompassing both the business I am involved in and the needs of end users. Consequently, the solutions I contribute to must prioritize simplicity, manageability, testability, and surpass expectations while meeting requirements.
+I have over 20 years of experience in the software development industry, during which I have assumed various roles and engaged in diverse development phases. I hold a particular affinity for agile, team leadership & coaching, architecture, and development. By adopting a holistic approach and recognizing the collective strength of a team, I consistently serve as a unifying force within the group. My extensive knowledge and experience enable me to identify alternative approaches to problem situations and make well-informed choices by comparing technology and methods. Additionally, I am deeply committed to understanding the context in which I operate, encompassing both the business I am involved in and the needs of end users. Consequently, the solutions I contribute to must prioritize simplicity, manageability, testability, and surpass expectations while meeting requirements.
 
 I thrive as a team player, free from personal prestige, and consider myself an open-minded individual who embraces change and reevaluation without hesitation.
 
@@ -32,7 +32,7 @@ Founder
 
 ### Ecopilot AB
 
-Development manager
+Director of Research & Development
 
 Ecopilot energy optimizes properties' use of heating, cooling and ventilation. Today, there are almost 1,000 properties connected that are optimized every minute by Ecopilot's algorithms. The principle behind the management of the properties is partly based on research at KTH and many years of experience of how properties work in practice.
 
