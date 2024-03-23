@@ -16,7 +16,7 @@ I thrive as a team player, free from personal prestige, and consider myself an o
 
 ### 2023-05 - today
 
-### Polestar Automotive AB
+### Polestar Performance AB
 
 Solutions Architect
 
